@@ -1,0 +1,6 @@
+# Wi-Fi Configuration for your Sprig
+# Rename this file to settings.toml and enter your Wi-Fi credentials.
+
+CIRCUITPY_WIFI_SSID = "Your_WiFi_SSID"
+CIRCUITPY_WIFI_PASSWORD = "Your_WiFi_Password"
+gi

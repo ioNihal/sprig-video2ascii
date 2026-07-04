@@ -1,0 +1,27 @@
+# Python / CircuitPython compiled files
+__pycache__/
+*.pyc
+
+# CircuitPython boot information (unique to each board)
+boot_out.txt
+
+# Local network credentials (ignore to keep settings.toml clean on GitHub)
+settings.toml
+
+# OS-specific files and metadata (especially from mounting Pico on macOS/Windows)
+.DS_Store
+Thumbs.db
+.Trashes
+.Trash-*
+.fseventsd
+.Spotlight-V100
+.metadata_never_index
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
