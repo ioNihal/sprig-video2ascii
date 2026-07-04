@@ -3,4 +3,3 @@
 
 CIRCUITPY_WIFI_SSID = "Your_WiFi_SSID"
 CIRCUITPY_WIFI_PASSWORD = "Your_WiFi_Password"
-gi
