@@ -37,7 +37,7 @@ Based on the official Sprig console schematic:
 *   `GP7`  → Button **S** (Unused)
 *   `GP8`  → Button **D** (Unused)
 *   `GP13` → Button **J** (Unused)
-*   `GP15` → Button **L** (Unused)
+*   `GP15` → Button **L** (Gracefull shutdown)
 
 ### MAX98357A I2S Audio Speaker:
 *   `GP10` → BCLK (Bit Clock)
