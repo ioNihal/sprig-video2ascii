@@ -5,7 +5,11 @@ A standalone, highly optimized **CircuitPython** project that lets you wirelessl
 Featuring a streamlined codebase, zero background telemetry overhead, hardware-level physical breakout triggers, and a modern cyberpunk dashboard served directly from the Sprig (powered by Raspberry Pi Pico 2 W).
 
 ---
-https://github.com/user-attachments/assets/c011a0cf-5843-409a-9f3c-2a8a61c9bf75
+
+
+https://github.com/user-attachments/assets/18f41164-cdc0-4e85-b0df-bad380ed9c19
+
+
 ---
 
 ## 🚀 Key Features
