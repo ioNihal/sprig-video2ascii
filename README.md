@@ -6,6 +6,12 @@ Featuring a streamlined codebase, zero background telemetry overhead, hardware-l
 
 ---
 
+[![Watch the video]](https://github.com/user-attachments/assets/c011a0cf-5843-409a-9f3c-2a8a61c9bf75)
+
+https://github.com/user-attachments/assets/c011a0cf-5843-409a-9f3c-2a8a61c9bf75
+
+---
+
 ## 🚀 Key Features
 
 *   **Wireless Cyberpunk Dashboard**: Serves a sleek, dark cyberpunk matrix mobile-friendly dashboard over Wi-Fi.
